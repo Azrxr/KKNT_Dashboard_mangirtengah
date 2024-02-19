@@ -32,7 +32,8 @@
                 <?php echo $row['alamat'] ?>
             </td>
             <td>
-                <?php echo $row['foto'] ?>
+                <!-- Tampilkan gambar dengan menggunakan tag img -->
+                <img src="<?php echo base_url('assets/foto_umkm/' . $row['foto']) ?>" alt="Foto Usaha" width="100">
             </td>
             <td>
                 <?php echo $row['keterangan'] ?>
