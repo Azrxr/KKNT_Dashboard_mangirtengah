@@ -105,11 +105,12 @@ class Umkm extends CI_Controller
     public function update()
     {
         $user = $this->uri->segment(3);
-
+    
         //foto
         $name_foto = $_FILES['foto_umkm']['name'];
         $type_foto = $_FILES['foto_umkm']['type'];
         $tmp_foto = $_FILES['foto_umkm']['tmp_name'];
+    
         //upload foto
         if (!empty($tmp_foto)) {
             if (
@@ -121,22 +122,30 @@ class Umkm extends CI_Controller
                 redirect($this->redirect->refresh);
             } else {
                 $foto_umkm = UploadImg($_FILES['foto_umkm'], './assets/foto_umkm/', 'umkm', 500);
-
-
-
+    
                 $data = array(
                     'nama_perusahaan' => $this->input->post('nama_perusahaan'),
                     'pemilik' => $this->input->post('pemilik'),
                     'alamat' => $this->input->post('alamat'),
-                    // 'foto' => $this->input->post('foto'),
-                    'foto' => $foto_umkm,
+                    'foto' => $foto_umkm, // Menggunakan foto baru yang diupload
                     'keterangan' => $this->input->post('keterangan')
                 );
                 $this->M_umkm->update($user, $data);
                 redirect($this->redirect, 'refresh');
             }
+        } else {
+            // Jika tidak ada foto baru diupload, gunakan foto yang sudah ada
+            $data = array(
+                'nama_perusahaan' => $this->input->post('nama_perusahaan'),
+                'pemilik' => $this->input->post('pemilik'),
+                'alamat' => $this->input->post('alamat'),
+                'keterangan' => $this->input->post('keterangan')
+            );
+            $this->M_umkm->update($user, $data);
+            redirect($this->redirect, 'refresh');
         }
     }
+    
 
     public function delete()
     {
