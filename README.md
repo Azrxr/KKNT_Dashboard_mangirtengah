@@ -9,11 +9,8 @@ Proyek ini merupakan bagian dari Kegiatan Kuliah Kerja Nyata (KKNT) Kelompok 5 d
 1. **Dashboard Demografi Penduduk:** Menampilkan data statistik tentang demografi penduduk Desa Mangir Tengah.
 2. **Website Dusun Sendang Sari:** Menyediakan informasi tentang Dusun Sendang Sari, termasuk sejarah, kegiatan, dan fasilitas.
 3. **Manajemen Data Penduduk:** Fitur ini memungkinkan administrator untuk melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data penduduk.
-<<<<<<< HEAD
 4. **saya juga bingung mau diisi apa**
-=======
 5. Melina
->>>>>>> dbe90bc1cadfb68a205a6d978c58486c14dfd9a3
 
 ## Teknologi yang Digunakan
 
