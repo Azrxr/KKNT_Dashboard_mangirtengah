@@ -53,4 +53,5 @@ class DtksEnum
         // remove char (-) and (.)
         return strtoupper(str_replace(['-', '.'], '', self::VERSION_LIST[$code]));
     }
+    
 }
