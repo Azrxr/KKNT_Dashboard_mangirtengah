@@ -1,0 +1,12 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerExceptionInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Container/BindingResolutionException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Container/BindingResolutionException.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Container/Container.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Container/Container.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerExceptionInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Container/CircularDependencyException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Container/CircularDependencyException.php on line 8

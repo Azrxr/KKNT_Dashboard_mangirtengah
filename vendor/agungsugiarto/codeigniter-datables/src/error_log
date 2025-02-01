@@ -1,0 +1,26 @@
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/DataTables.php on line 9
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Fluent\DataTables\DataTableAbstract' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/QueryDataTable.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/QueryDataTable.php on line 13
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Fluent\DataTables\QueryDataTable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/EloquentDataTable.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/EloquentDataTable.php on line 14
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Fluent\DataTables\Contracts\DataTable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/DataTableAbstract.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/DataTableAbstract.php on line 16
+[11-Jul-2024 22:42:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Fluent\DataTables\Contracts\DataTable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/DataTableAbstract.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/DataTableAbstract.php on line 16
+[11-Jul-2024 22:42:34 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/DataTables.php on line 9
+[11-Jul-2024 22:42:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Fluent\DataTables\QueryDataTable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/EloquentDataTable.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/EloquentDataTable.php on line 14
+[11-Jul-2024 22:42:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Fluent\DataTables\DataTableAbstract' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/QueryDataTable.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/agungsugiarto/codeigniter-datables/src/QueryDataTable.php on line 13

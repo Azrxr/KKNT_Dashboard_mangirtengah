@@ -1,0 +1,16 @@
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Drive.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Drive.php on line 35
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Script.php on line 35
+[11-Jul-2024 22:42:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Script.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Script.php on line 35
+[11-Jul-2024 22:42:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Service' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Drive.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient-services/src/Drive.php on line 35

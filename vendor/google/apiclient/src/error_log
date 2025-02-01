@@ -1,0 +1,54 @@
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Client' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Service' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\AccessToken\Revoke' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\AccessToken\Verify' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Model' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Utils\UriTemplate' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\AuthHandler\Guzzle6AuthHandler' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\AuthHandler\Guzzle7AuthHandler' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\AuthHandler\AuthHandlerFactory' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Http\Batch' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Http\MediaFileUpload' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Http\REST' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Task\Retryable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Task\Exception' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Task\Runner' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Collection' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Service\Exception' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Service\Resource' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Class 'Google\Exception' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Task\Composer' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 39
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/Collection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/Collection.php on line 10
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Client' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Service' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\AccessToken\Revoke' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\AccessToken\Verify' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Model' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Utils\UriTemplate' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\AuthHandler\Guzzle6AuthHandler' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\AuthHandler\Guzzle7AuthHandler' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\AuthHandler\AuthHandlerFactory' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Http\Batch' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Http\MediaFileUpload' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Http\REST' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Task\Retryable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Task\Exception' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Task\Runner' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Collection' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Service\Exception' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Service\Resource' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Class 'Google\Exception' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 32
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Task\Composer' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/aliases.php on line 39
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Google\Model' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/Collection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/google/apiclient/src/Collection.php on line 10

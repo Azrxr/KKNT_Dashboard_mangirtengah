@@ -1,0 +1,4 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Filesystem\Filesystem' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Filesystem/Cloud.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Filesystem/Cloud.php on line 5

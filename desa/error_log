@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/watg8386/public_html/mangirtengah-uaa.com/desa/offline_mode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/desa/offline_mode.php on line 4
+[11-Jul-2024 22:42:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/watg8386/public_html/mangirtengah-uaa.com/desa/offline_mode.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/desa/offline_mode.php on line 4

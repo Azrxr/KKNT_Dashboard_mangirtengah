@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/index.blade.php on line 370
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/index.blade.php on line 370
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/potrait.blade.php on line 191
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/potrait.blade.php on line 191
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/index.blade.php on line 370
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/index.blade.php on line 370
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/potrait.blade.php on line 191
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/layanan_mandiri/anjungan/potrait.blade.php on line 191

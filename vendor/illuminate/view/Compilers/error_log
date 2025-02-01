@@ -1,0 +1,4 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Compilers\Compiler' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/view/Compilers/BladeCompiler.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/view/Compilers/BladeCompiler.php on line 15

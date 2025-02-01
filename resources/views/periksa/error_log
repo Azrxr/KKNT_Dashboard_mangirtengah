@@ -1,0 +1,16 @@
+[10-Jul-2024 00:15:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function config_item() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/index.blade.php:432
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/index.blade.php on line 432
+[10-Jul-2024 00:15:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function config_item() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/koneksi.blade.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/koneksi.blade.php on line 49
+[11-Jul-2024 22:42:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function config_item() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/index.blade.php:432
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/index.blade.php on line 432
+[11-Jul-2024 22:42:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function config_item() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/koneksi.blade.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/periksa/koneksi.blade.php on line 49

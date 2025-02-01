@@ -1,0 +1,17 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Connectors\Connector' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/MySqlConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/MySqlConnector.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Connectors\Connector' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/SQLiteConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/SQLiteConnector.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Connectors\Connector' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/PostgresConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/PostgresConnector.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Connectors\Connector' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/SqlServerConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/SqlServerConnector.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Database\DetectsLostConnections' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Connectors/Connector.php on line 11

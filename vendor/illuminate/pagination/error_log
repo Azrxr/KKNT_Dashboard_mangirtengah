@@ -1,0 +1,56 @@
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Htmlable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractCursorPaginator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractCursorPaginator.php on line 21
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Htmlable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractPaginator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractPaginator.php on line 16
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Arrayable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Cursor.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Cursor.php on line 8
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractCursorPaginator' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/CursorPaginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/CursorPaginator.php on line 14
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractPaginator' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/LengthAwarePaginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/LengthAwarePaginator.php on line 14
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/PaginationServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/PaginationServiceProvider.php on line 7
+[10-Jul-2024 00:15:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractPaginator' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Paginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Paginator.php on line 14
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Htmlable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractCursorPaginator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractCursorPaginator.php on line 21
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Htmlable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractPaginator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/AbstractPaginator.php on line 16
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Arrayable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Cursor.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Cursor.php on line 8
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractCursorPaginator' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/CursorPaginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/CursorPaginator.php on line 14
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractPaginator' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/LengthAwarePaginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/LengthAwarePaginator.php on line 14
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/PaginationServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/PaginationServiceProvider.php on line 7
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractPaginator' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Paginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/pagination/Paginator.php on line 14

@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Validation/ImplicitRule.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Validation/ImplicitRule.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\MessageProvider' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Validation/Validator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Validation/Validator.php on line 7

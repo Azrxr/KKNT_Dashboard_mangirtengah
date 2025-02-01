@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function config_item() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/pengaturan_surat/pengaturan.blade.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/pengaturan_surat/pengaturan.blade.php on line 144
+[11-Jul-2024 22:42:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function config_item() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/pengaturan_surat/pengaturan.blade.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/pengaturan_surat/pengaturan.blade.php on line 144

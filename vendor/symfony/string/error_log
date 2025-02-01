@@ -1,0 +1,48 @@
+[10-Jul-2024 00:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractString.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractString.php on line 30
+[10-Jul-2024 00:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/LazyString.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/LazyString.php on line 19
+[10-Jul-2024 00:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/CodePointString.php on line 25
+[10-Jul-2024 00:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/UnicodeString.php on line 33
+[10-Jul-2024 00:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/ByteString.php on line 26
+[10-Jul-2024 00:15:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractString.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractString.php on line 30
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/ByteString.php on line 26
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/CodePointString.php on line 25
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/LazyString.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/LazyString.php on line 19
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/string/UnicodeString.php on line 33

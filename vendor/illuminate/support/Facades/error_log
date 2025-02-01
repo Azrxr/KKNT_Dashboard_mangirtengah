@@ -1,0 +1,144 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/App.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/App.php on line 53
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Artisan.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Artisan.php on line 18
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Blade.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Blade.php on line 35
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Auth.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Auth.php on line 37
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Bus.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Bus.php on line 36
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Cache.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Cache.php on line 29
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Broadcast.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Broadcast.php on line 16
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Config.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Config.php on line 15
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Cookie.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Cookie.php on line 12
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Crypt.php on line 16
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Date.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Date.php on line 88
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Event.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Event.php on line 30
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/DB.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/DB.php on line 39
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/File.php on line 51
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Gate.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Gate.php on line 29
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Hash.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Hash.php on line 14
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Http.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Http.php on line 56
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Lang.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Lang.php on line 15
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Mail.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Mail.php on line 38
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Notification.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Notification.php on line 26
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Log.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Log.php on line 25
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/ParallelTesting.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/ParallelTesting.php on line 15
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Session.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Session.php on line 34
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Password.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Password.php on line 19
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/RateLimiter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/RateLimiter.php on line 19
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Redirect.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Redirect.php on line 24
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Queue.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Queue.php on line 28
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Route.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Route.php on line 51
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/URL.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/URL.php on line 27
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/View.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/View.php on line 19
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Validator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Validator.php on line 15
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Response.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Response.php on line 25
+[10-Jul-2024 00:15:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Redis.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Redis.php on line 13
+[10-Jul-2024 00:15:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Schema.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Schema.php on line 29
+[10-Jul-2024 00:15:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Storage.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Storage.php on line 48
+[10-Jul-2024 00:15:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Request.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/support/Facades/Request.php on line 92

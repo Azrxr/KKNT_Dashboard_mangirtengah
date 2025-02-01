@@ -1,0 +1,4 @@
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\SimpleCache\CacheInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Cache/Repository.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/contracts/Cache/Repository.php on line 8

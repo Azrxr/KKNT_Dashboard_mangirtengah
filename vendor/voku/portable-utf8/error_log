@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'voku\helper\Bootup' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/voku/portable-utf8/bootstrap.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/voku/portable-utf8/bootstrap.php on line 6
+[11-Jul-2024 22:42:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'voku\helper\Bootup' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/voku/portable-utf8/bootstrap.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/voku/portable-utf8/bootstrap.php on line 6

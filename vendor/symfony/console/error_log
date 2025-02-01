@@ -1,0 +1,16 @@
+[10-Jul-2024 00:15:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/SingleCommandApplication.php on line 21
+[10-Jul-2024 00:15:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/Application.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/Application.php on line 71
+[11-Jul-2024 22:42:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/Application.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/Application.php on line 71
+[11-Jul-2024 22:42:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/symfony/console/SingleCommandApplication.php on line 21

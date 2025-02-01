@@ -1,0 +1,24 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\DBAL\Driver\ServerInfoAwareConnection' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/Connection.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/Connection.php on line 16
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Driver\AbstractMySQLDriver' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/MySqlDriver.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/MySqlDriver.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Driver\AbstractPostgreSQLDriver' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/PostgresDriver.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/PostgresDriver.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\DBAL\Driver\ServerInfoAwareConnection' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/SqlServerConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/SqlServerConnection.php on line 12
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Driver\AbstractSQLiteDriver' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/SQLiteDriver.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/SQLiteDriver.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Driver\AbstractSQLServerDriver' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/SqlServerDriver.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/PDO/SqlServerDriver.php on line 7

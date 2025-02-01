@@ -1,0 +1,40 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/DatabaseRefreshed.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/DatabaseRefreshed.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationsEvent.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationsEvent.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationEvent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationEvent.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationEnded.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationEnded.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationsEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationsStarted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationsStarted.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationsEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationsEnded.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationsEnded.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationStarted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/MigrationStarted.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/TransactionCommitted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/TransactionCommitted.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/TransactionRolledBack.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/TransactionRolledBack.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/TransactionBeginning.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Events/TransactionBeginning.php on line 5

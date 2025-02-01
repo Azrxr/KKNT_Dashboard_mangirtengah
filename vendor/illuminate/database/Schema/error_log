@@ -1,0 +1,41 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/Blueprint.php on line 14
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Fluent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/ColumnDefinition.php on line 35
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Fluent' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/ForeignKeyDefinition.php on line 15
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\ColumnDefinition' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/ForeignIdColumnDefinition.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\Builder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/MySqlBuilder.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\Builder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/PostgresBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/PostgresBuilder.php on line 5
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\SchemaState' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/MySqlSchemaState.php on line 10
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\SchemaState' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/SqliteSchemaState.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\SchemaState' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/PostgresSchemaState.php on line 8
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\Builder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/SQLiteBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/SQLiteBuilder.php on line 7
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Schema\Builder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Schema/SqlServerBuilder.php on line 5

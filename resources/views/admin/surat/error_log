@@ -1,0 +1,10 @@
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: surat in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/kode_isian.blade.php on line 1
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/kode_isian.blade.php on line 1
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/kode_isian.blade.php on line 1
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/periksa.blade.php on line 65
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/periksa.blade.php on line 108
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Notice:  Undefined variable: surat in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/kode_isian.blade.php on line 1
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/kode_isian.blade.php on line 1
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/kode_isian.blade.php on line 1
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/periksa.blade.php on line 65
+[11-Jul-2024 22:42:35 Asia/Jakarta] PHP Notice:  Undefined variable: key in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/surat/periksa.blade.php on line 108

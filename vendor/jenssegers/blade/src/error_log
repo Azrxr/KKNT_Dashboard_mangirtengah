@@ -1,0 +1,4 @@
+[10-Jul-2024 00:15:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\View\Factory' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/jenssegers/blade/src/Blade.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/jenssegers/blade/src/Blade.php on line 17

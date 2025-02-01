@@ -1,0 +1,24 @@
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\Container' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/Container.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/Container.php on line 17
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\NotFoundExceptionInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/EntryNotFoundException.php on line 8
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\ContextualBindingBuilder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/ContextualBindingBuilder.php on line 8
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\Container' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/Container.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/Container.php on line 17
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\ContextualBindingBuilder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/ContextualBindingBuilder.php on line 8
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\NotFoundExceptionInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/container/EntryNotFoundException.php on line 8

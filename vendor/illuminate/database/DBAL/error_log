@@ -1,0 +1,4 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Types\Type' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/DBAL/TimestampType.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/DBAL/TimestampType.php on line 10

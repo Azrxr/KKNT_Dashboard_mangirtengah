@@ -1,0 +1,5 @@
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Database\Concerns\BuildsQueries' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Query/Builder.php on line 27
+[10-Jul-2024 00:15:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Builder' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Query/JoinClause.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/database/Query/JoinClause.php on line 7

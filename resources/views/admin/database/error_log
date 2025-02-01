@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/database/inkremental.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/database/inkremental.blade.php on line 78
+[11-Jul-2024 22:42:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/database/inkremental.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/database/inkremental.blade.php on line 78

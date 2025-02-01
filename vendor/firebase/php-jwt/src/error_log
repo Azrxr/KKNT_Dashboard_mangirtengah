@@ -1,0 +1,8 @@
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Firebase\JWT\JWTExceptionWithPayloadInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/firebase/php-jwt/src/BeforeValidException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/firebase/php-jwt/src/BeforeValidException.php on line 5
+[10-Jul-2024 00:15:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Firebase\JWT\JWTExceptionWithPayloadInterface' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/firebase/php-jwt/src/ExpiredException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/firebase/php-jwt/src/ExpiredException.php on line 5

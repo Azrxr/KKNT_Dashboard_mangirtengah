@@ -1,0 +1,34 @@
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Cached\Storage\AbstractCache' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/Cache.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/Cache.php on line 8
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/Filesystem.php on line 16
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Filesystem\Cloud' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemAdapter.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemAdapter.php on line 35
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Filesystem\Factory' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemManager.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemManager.php on line 23
+[10-Jul-2024 00:15:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemServiceProvider.php on line 7
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Cached\Storage\AbstractCache' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/Cache.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/Cache.php on line 8
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Filesystem\Cloud' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemAdapter.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemAdapter.php on line 35
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/Filesystem.php on line 16
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Filesystem\Factory' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemManager.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemManager.php on line 23
+[11-Jul-2024 22:42:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/vendor/illuminate/filesystem/FilesystemServiceProvider.php on line 7

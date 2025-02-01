@@ -1,0 +1,16 @@
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Notice:  Undefined variable: setting in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Notice:  Trying to get property 'aktifkan_sms' of non-object in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Notice:  Undefined variable: setting in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Notice:  Trying to get property 'aktifkan_sms' of non-object in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[10-Jul-2024 00:15:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 50
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Undefined variable: setting in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Trying to get property 'aktifkan_sms' of non-object in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Undefined variable: setting in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Notice:  Trying to get property 'aktifkan_sms' of non-object in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 46
+[11-Jul-2024 22:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function selected() in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/watg8386/public_html/mangirtengah-uaa.com/resources/views/admin/daftar_kontak/form.blade.php on line 50
